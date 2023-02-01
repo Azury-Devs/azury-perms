@@ -1,0 +1,17 @@
+{
+  "name": "azury-perms",
+  "version": "0.5.0",
+  "description": "Azury Perms! Expand your Exclusivity",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["discordjs", "discord"],
+  "author": "Azury Devs",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.2.6",
+    "discord.js": "^13.3.1",
+    "mongoose": "^6.8.3"
+  }
+}
